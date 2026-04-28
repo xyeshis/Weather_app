@@ -1,4 +1,5 @@
  WeatherDesk (Python Desktop Weather App)
+<img width="740" height="813" alt="image" src="https://github.com/user-attachments/assets/cd0079d0-5f18-4677-a72c-45132917b1b8" />
 
 Desktop-приложение для просмотра текущей погоды и прогноза по городу. Интерфейс на CustomTkinter, данные берутся из OpenWeatherMap API.
 
